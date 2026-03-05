@@ -1,4 +1,4 @@
 package com.kovanlabs.studentmanagementsystem.service;
 
-public class DummyService {
+public class StudentService {
 }

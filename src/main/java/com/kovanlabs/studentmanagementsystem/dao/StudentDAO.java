@@ -1,4 +1,4 @@
 package com.kovanlabs.studentmanagementsystem.dao;
 
-public class DummyDAO {
+public class StudentDAO {
 }

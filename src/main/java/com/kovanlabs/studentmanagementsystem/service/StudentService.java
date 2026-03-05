@@ -1,0 +1,4 @@
+package com.kovanlabs.studentmanagementsystem.service;
+
+public class StudentService {
+}
